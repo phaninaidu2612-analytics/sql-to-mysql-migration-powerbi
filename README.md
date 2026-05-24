@@ -1,7 +1,7 @@
 # Database Transition & Business Optimization Dashboard | Power BI
 
 ## Dashboard Link :
-https://app.powerbi.com/links/_-tAeAXTXN?ctid=06cd4ed5-3b7f-47b0-8ef6-29dee1c5060b&pbi_source=linkShare&bookmarkGuid=82b97f60-8723-42a3-a4c9-655942143a8f
+https://app.powerbi.com/view?r=eyJrIjoiODcxZWU1NDYtZTRlOS00ODU1LWFkZmItZDk4ZjIxNjAxODllIiwidCI6IjA2Y2Q0ZWQ1LTNiN2YtNDdiMC04ZWY2LTI5ZGVlMWM1MDYwYiJ9&embedImagePlaceholder=true&pageName=369007a6b71205be20d4
 
 ## Dashboard Preview :
 ![d1](https://github.com/user-attachments/assets/d75c166c-5717-424a-ade1-2877e3d215e9)
